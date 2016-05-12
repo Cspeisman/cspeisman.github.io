@@ -26,7 +26,7 @@ export default class Sass extends React.Component {
           <div className="right-side-content flex--basis-30">
             <h3>Select Projects</h3>
             <div className="project-list">
-              <a href="http://github.com/Cspeisman/Elm-task-list">Elm Task List Todo</a>
+              <a href="http://github.com/Cspeisman/Elm-task-list">Elm Task List</a>
               <a href="http://www.funkparade.com/boombox/">Boombox Walk iOS App</a>
               <a href="https://github.com/Cspeisman/reactes-bp">React ES6 Boilerplate</a>
               <a href="https://github.com/heyitsolivia/jifbox">Jifbox</a>
