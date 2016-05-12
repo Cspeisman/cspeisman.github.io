@@ -1,4 +1,14 @@
-# gatsby-starter-default
-The default Gatsby starter
+# All Things Speis
+This is my personal site
 
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-example-site
+---
+### Run locally
+run these commands:
+
+`git clone git@github.com:Cspeisman/cspeisman.github.io.git`
+
+`npm install`
+
+`npm start`
+
+`visit` [http://localhost:8000](http://localhost:8000)
