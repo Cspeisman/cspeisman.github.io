@@ -17,7 +17,7 @@ export default class Sass extends React.Component {
           <div className="flex--basis-60 pad-right">
             <h1>Corey Speisman</h1>
             <p className="description">
-              I'm a senior developer at Deloitte Digital and an avid learner in my spare time.
+              I'm a software developer at CAVA and an avid learner in my spare time.
             </p>
             <div className="social-links">
               <a href="http://twitter.com/cdspeis">Twitter</a> - <a href="http://github.com/Cspeisman">Github</a> - <a href="https://dl.dropboxusercontent.com/u/13155426/Corey_Speismans_resume.pdf">Resume</a>
@@ -26,6 +26,7 @@ export default class Sass extends React.Component {
           <div className="right-side-content flex--basis-30">
             <h3>Select Projects</h3>
             <div className="project-list">
+              <a href="https://order.cava.com">CAVA Digital Ordering</a>
               <a href="http://github.com/Cspeisman/Elm-task-list">Elm Task List</a>
               <a href="http://www.funkparade.com/boombox/">Boombox Walk iOS App</a>
               <a href="https://github.com/Cspeisman/reactes-bp">React ES6 Boilerplate</a>
