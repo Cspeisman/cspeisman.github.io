@@ -13,14 +13,14 @@ export default class Sass extends React.Component {
     return (
       <DocumentTitle title={config.siteTitle}>
         <div className="content flex">
-          <img className="profile-img" alt="profile img" src="https://pbs.twimg.com/profile_images/520656033501286400/y6gnsa15.jpeg" />
+          <img className="profile-img" alt="profile img" src="https://d1qb2nb5cznatu.cloudfront.net/users/423614-large?1495396889" />
           <div className="flex--basis-60 pad-right">
             <h1>Corey Speisman</h1>
             <p className="description">
               I'm a software developer at CAVA and an avid learner in my spare time.
             </p>
             <div className="social-links">
-              <a href="http://twitter.com/cdspeis">Twitter</a> - <a href="http://github.com/Cspeisman">Github</a> - <a href="https://dl.dropboxusercontent.com/u/13155426/Corey_Speismans_resume.pdf">Resume</a>
+              <a href="http://twitter.com/cdspeis">Twitter</a> - <a href="http://github.com/Cspeisman">Github</a>
             </div>
           </div>
           <div className="right-side-content flex--basis-30">
