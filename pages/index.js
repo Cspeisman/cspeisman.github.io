@@ -17,7 +17,7 @@ export default class Sass extends React.Component {
           <div className="flex--basis-60 pad-right">
             <h1>Corey Speisman</h1>
             <p className="description">
-              I'm a software developer at CAVA and an avid learner in my spare time.
+              I'm a software engineer at Pivotal Labs and an avid learner in my spare time.
             </p>
             <div className="social-links">
               <a href="http://twitter.com/cdspeis">Twitter</a> - <a href="http://github.com/Cspeisman">Github</a>
